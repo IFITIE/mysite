@@ -1,0 +1,27 @@
+- class_name: 友情链接
+  class_desc: 
+  link_list:
+    - name: 源星光子
+      link: https://www.yxgz.cc/
+      avatar: https://pic.imgdb.cn/item/6628711f0ea9cb14034d474b.jpg
+      descr:  小源的blog
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: ChatGPT
+      link: https://chat.openai.com/
+      avatar: https://www.freeimg.cn/i/2024/02/14/65cc70c04b136.webp
+      descr: ChatGPT官方网址
+    - name: BiliBili
+      link: https://www.bilibili.com/
+      avatar: https://www.freeimg.cn/i/2024/02/12/65c9c896dfd9c.jpeg
+      descr: 视频网站
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      descr: 中国最大社交分享平台
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台
